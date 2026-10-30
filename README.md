@@ -26,5 +26,3 @@ npm test
 AI findings are probabilistic; this fixture does not guarantee a finding.
 Evaluating it on the default branch requires an explicitly authorized push and
 merge, and the repository's Code Quality analysis must be enabled.
-
-Small change
